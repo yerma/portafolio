@@ -1,0 +1,62 @@
+[
+  {
+    "id": "orientacion1",
+    "title": "Orientación 1",
+    "client": "Tremün - Material Educativo y Capacitación",
+    "description": "Diseño editorial del texto para el estudiante y para el docente. Desarrollo de ilustración digital.",
+    "imgUrl": "portada-orientacion.jpg",
+    "category": "editorial",
+    "date": "2015",
+    "detailImgs": ["portada-orientacion.jpg","interior-orientacion.jpg","interior-orientacion2.jpg"]
+  },
+  {
+    "id": "branding-tremun",
+    "title": "Branding Tremün",
+    "client": "Tremün - Material Educativo y Capacitación",
+    "description": "Desarrollo de identidad corporativa.",
+    "imgUrl": "tarjeta-presentacion.jpg",
+    "category": "branding",
+    "date": "2015",
+    "detailImgs": ["tarjeta-presentacion.jpg", "logo-tremun.jpg"]
+  },
+  {
+    "id": "web-tremun",
+    "title": "Sitio Web Tremün",
+    "client": "Tremün - Material Educativo y Capacitación",
+    "description": "Sitio web en base a HTML5, CSS y JavaScript.",
+    "imgUrl": "",
+    "category": "web",
+    "date": "2017",
+    "detailImgs": []
+  },
+  {
+    "id": "ilustracion-nguru",
+    "title": "Pichi Ngüru (Pequeño Zorro)",
+    "client": "",
+    "description": "Ilustración técnica mixta (análoga + digital).",
+    "imgUrl": "ilustracion-zorro.jpg",
+    "category": "illustration",
+    "date": "2013",
+    "detailImgs": ["ilustracion-zorro.jpg"]
+  },
+  {
+    "id": "branding-triclima",
+    "title": "Branding TriClima",
+    "client": "Triclima EIRL",
+    "description": "Imagotipo para empresa de climatización. ",
+    "imgUrl": "logo-triclima.jpg",
+    "category": "branding",
+    "date": "2015",
+    "detailImgs": ["logo-triclima.jpg"]
+  },
+  {
+    "id": "branding-ludens",
+    "title": "Branding Ludens",
+    "client": "Ludens",
+    "description": "Desarrollo de identidad corporativa.",
+    "imgUrl": "",
+    "category": "branding",
+    "date": "2016",
+    "detailImgs": []
+  }
+]
